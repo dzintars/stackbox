@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Stack Box",
+  "description": "Add links to your StackBox",
+  "version": "0.0.1",
+  "icons": {
+    "128": "dzintars.dev.icon.128.png"
+  },
+  "browser_action": {
+    "default_icon": "dzintars.dev.icon.19.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
